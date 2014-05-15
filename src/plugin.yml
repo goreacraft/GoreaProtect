@@ -1,0 +1,15 @@
+name: GoreaProtect
+main: com.goreacraft.plugins.goreaprotect.GoreaProtect
+version: 1.0
+description: Addon made for factions.
+author: goreacraft
+website: http://www.goreacraft.com
+prefix: GoreaProtect
+
+commands:
+  goreaprotect:
+    aliases: [gp, gprotect]
+    description: /gprotect help for more info
+    usage: /gprotect ?, /gprotect help
+    default: true
+  

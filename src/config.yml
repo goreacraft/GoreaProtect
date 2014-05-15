@@ -1,0 +1,7 @@
+Wand: BONE
+MaxClaims: 10
+MaxFriends: 10
+Factions integration: false
+CheckOn:
+  Hoppers: 
+  - HOPPER
